@@ -13,6 +13,7 @@ This is a list of resources for Unreal Engine development I've found useful, hop
 ## 1.1. Videos
 
 - [Gameplay Ability Sytem in 40 Minutes - UE4 C++ Tutorial](https://www.youtube.com/watch?v=Yub52f4ZUU0) [C++] [Gameplay Ability System] [GAS] [Intermediate]
+- [A\* Pathfinding](https://www.youtube.com/watch?v=-L-WgKMFuhE) [A*] [Pathfinding] - This is not UE or C++ however I found it to be a clear and eay to follow intro into this topic
 
 # 2. Courses
 
