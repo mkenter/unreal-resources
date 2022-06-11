@@ -16,6 +16,7 @@ This is a list of resources for Unreal Engine development I've found useful, hop
 - [A\* Pathfinding](https://www.youtube.com/watch?v=-L-WgKMFuhE) [A*] [Pathfinding] [Advanced] - This is not UE or C++ however I found it to be a clear and easy to follow intro to this topic
 - [Unreal Engine AI with Behavior Trees](https://www.youtube.com/watch?v=iY1jnFvHgbE) [Blueprints] [AI] [Behavior Tree] [Blackboard] [Perception] [Intermediate]
 - [Unreal Engine 4 Tutorial - AI EQS Part 2 - Hiding from the Player](https://www.youtube.com/watch?v=lMx2JKY8HnM) [AI] [Behavior Tree] [Blackboard] [EQS] [Intermediate]
+- [AI Jumping in UE4 Series](https://www.youtube.com/watch?v=lryLtoF1ekA) [AI] [Pathfinding] [Nav] [Intermediate]
 
 # 2. Courses
 
